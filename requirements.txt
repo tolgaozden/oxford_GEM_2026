@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 requests
+=======
+ requests
+>>>>>>> 911bf22f45d70160363a1ac067c21d4b2ea4f1e2
 matplotlib
