@@ -1,3 +1,6 @@
+
+# %%
+
 import requests, json, time
 import matplotlib.pyplot as plt
 
